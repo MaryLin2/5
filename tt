@@ -1,0 +1,7 @@
+td, th {
+
+  padding-right: 40px;
+}
+
+th {
+  background-color: 
